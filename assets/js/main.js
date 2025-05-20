@@ -295,4 +295,4 @@ function calculateAge(birthDate) {
 
   return age;
 }
-document.getElementById('age').textContent = calculateAge('1998-12-30');
+document.getElementById('age').textContent = calculateAge('2000-02-24');
